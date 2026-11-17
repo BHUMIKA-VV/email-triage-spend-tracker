@@ -1,0 +1,198 @@
+[
+  {
+    "id": "e001",
+    "from": "orders@amazon.in",
+    "subject": "Your order #402-118 has shipped",
+    "date": "2026-11-03",
+    "body": "Order total: Rs. 2,499.00 paid via UPI. Items: Logitech M331 mouse. Expected delivery: 2026-11-05."
+  },
+  {
+    "id": "e002",
+    "from": "billing@netflix.com",
+    "subject": "Your membership has been renewed",
+    "date": "2026-11-05",
+    "body": "We charged Rs. 649 to your card ending 4417 for the Standard plan. Your next billing date is 5 December 2026."
+  },
+  {
+    "id": "e003",
+    "from": "priya@company.com",
+    "subject": "Sprint review moved to Friday",
+    "date": "2026-11-06",
+    "body": "Please update the deck before Thursday EOD."
+  },
+  {
+    "id": "e004",
+    "from": "auto-confirm@amazon.in",
+    "subject": "Order Confirmation: #402-118",
+    "date": "2026-11-02",
+    "body": "Hello, thank you for your order. Order #402-118 placed on 2026-11-02. Logitech M331 Silent Plus mouse x1. Order total: Rs. 2,499.00. Payment method: UPI (GPay)."
+  },
+  {
+    "id": "e005",
+    "from": "noreply@swiggy.in",
+    "subject": "Your Swiggy order from Meghana Foods was delivered",
+    "date": "2026-11-04",
+    "body": "Order #SW-773410 delivered. Chicken Biryani x2, Paneer 65 x1. Item total Rs. 520, delivery fee Rs. 25, discount -Rs. 59. Grand total paid: Rs. 486 via UPI."
+  },
+  {
+    "id": "e006",
+    "from": "noreply@zomato.com",
+    "subject": "Your Zomato order receipt",
+    "date": "2026-11-07",
+    "body": "Order #ZO-55102 from Truffles. Total paid: ₹349 using Zomato wallet."
+  },
+  {
+    "id": "e007",
+    "from": "noreply@zomato.com",
+    "subject": "Your Zomato order receipt",
+    "date": "2026-11-08",
+    "body": "Order #ZO-55187 from Truffles. Total paid: ₹349 using Zomato wallet."
+  },
+  {
+    "id": "e008",
+    "from": "accounts@pixelcraft.studio",
+    "subject": "Invoice INV-2026-118 for October design work - Project Atlas",
+    "date": "2026-11-09",
+    "body": "Hi, please find attached invoice INV-2026-118 for UI design services delivered for the Project Atlas client deliverables in October. Amount payable: Rs. 45,000 (Net 30). Bank details are in the PDF. Let me know if the PO number needs to be added."
+  },
+  {
+    "id": "e009",
+    "from": "no-reply@spotify.com",
+    "subject": "Your Spotify Premium receipt",
+    "date": "2026-11-10",
+    "body": "Thanks for your payment. Premium Individual (monthly). Amount: ₹119.00, paid by UPI AutoPay on 2026-11-10."
+  },
+  {
+    "id": "e010",
+    "from": "offers@flipkart.com",
+    "subject": "Big Billion Days are back! Flat 60% off on laptops",
+    "date": "2026-11-11",
+    "body": "Because you shopped with us: laptops starting at ₹29,999, earbuds from ₹999. Extra 10% off with HDFC cards. Use code BBD60. Limited time offer."
+  },
+  {
+    "id": "e011",
+    "from": "noreply@flipkart.com",
+    "subject": "Delivered: your order OD4271839120",
+    "date": "2026-11-12",
+    "body": "Your package containing boAt Rockerz 450 headphones (Order OD4271839120) has been delivered. Rate your experience."
+  },
+  {
+    "id": "e012",
+    "from": "noreply@flipkart.com",
+    "subject": "Order placed: OD4271839120",
+    "date": "2026-11-09",
+    "body": "Your order OD4271839120 for boAt Rockerz 450 headphones has been placed. Order total: Rs. 1,299. Payment: Cash on Delivery."
+  },
+  {
+    "id": "e013",
+    "from": "newsletter@the-ken.com",
+    "subject": "The Ken Daily: Why quick commerce is eating kiranas",
+    "date": "2026-11-12",
+    "body": "Good morning! In today's issue #412 of your newsletter: the economics of 10-minute delivery, and what it means for neighbourhood stores. Read time: 8 min. Unsubscribe or manage your newsletter preferences."
+  },
+  {
+    "id": "e014",
+    "from": "tickets@makemytrip.com",
+    "subject": "Booking confirmed: BLR to DEL, 2026-12-20",
+    "date": "2026-11-13",
+    "body": "Your flight booking is confirmed. Booking ID NF7Y2K93. IndiGo 6E-2045, Bengaluru to Delhi, 20 Dec 2026. Total fare paid: Rs. 18,750 with your HDFC Credit Card."
+  },
+  {
+    "id": "e015",
+    "from": "noreplies@uber.com",
+    "subject": "Your Tuesday evening trip with Uber",
+    "date": "2026-11-11",
+    "body": "Thanks for riding with Uber. Total ₹312.50. Paid with Paytm Wallet. Trip from Koramangala to Indiranagar, 7.4 km."
+  },
+  {
+    "id": "e016",
+    "from": "billing@github.com",
+    "subject": "[GitHub] Payment receipt for GitHub Copilot",
+    "date": "2026-11-14",
+    "body": "We received your payment for GitHub Copilot Individual (monthly subscription). Amount charged: $10.00 USD to Visa credit card ending 4417. Receipt #GH-99812-2026."
+  },
+  {
+    "id": "e017",
+    "from": "alerts@hdfcbank.net",
+    "subject": "Security alert: new sign-in to NetBanking",
+    "date": "2026-11-14",
+    "body": "A new sign-in to your HDFC Bank NetBanking account was detected from Chrome on Windows. If this was not you, call 1800-202-6161 immediately. Never share your OTP."
+  },
+  {
+    "id": "e018",
+    "from": "no-reply@razorpay.com",
+    "subject": "Payment successful",
+    "date": "2026-11-15",
+    "body": "Payment of Rs. 1,180.00 was successful. Payment ID pay_Nx81KQ2lq. Paid to: Shree Enterprises."
+  },
+  {
+    "id": "e019",
+    "from": "rahul@company.com",
+    "subject": "Team lunch yesterday",
+    "date": "2026-11-15",
+    "body": "Thanks for picking up the bill at Toit yesterday - I think it came to around two and a half thousand? Please file it in the expense report so finance can reimburse you."
+  },
+  {
+    "id": "e020",
+    "from": "ebill@airtel.in",
+    "subject": "Payment received for your Airtel Postpaid bill",
+    "date": "2026-11-08",
+    "body": "Dear customer, we have received your payment of Rs. 999.00 for Airtel Postpaid number ending 2231 via Net Banking. Thank you."
+  },
+  {
+    "id": "e021",
+    "from": "orders@bigbasket.com",
+    "subject": "Your bigbasket order is confirmed",
+    "date": "2026-11-16",
+    "body": "Your order BB-6619203 with 14 items is confirmed for delivery tomorrow between 7 AM and 9 AM. The final amount will be charged on delivery after weighing fresh produce."
+  },
+  {
+    "id": "e022",
+    "from": "updates@myntra.com",
+    "subject": "Your Myntra order is on its way",
+    "date": "2026-11-10",
+    "body": "Good news! Your order MYN-88231 (Roadster cotton shirt) has been shipped and will arrive by 2026-11-13."
+  },
+  {
+    "id": "e023",
+    "from": "updates@myntra.com",
+    "subject": "Order confirmed - MYN-88231",
+    "date": "2026-11-08",
+    "body": "Thank you for shopping with Myntra. Order MYN-88231: Roadster cotton shirt. Amount paid: Rs. 1,849 via Debit Card."
+  },
+  {
+    "id": "e024",
+    "from": "billing@netflix.com",
+    "subject": "Your membership has been renewed",
+    "date": "2026-10-05",
+    "body": "We charged Rs. 649 to your card ending 4417 for the Standard plan. Your next billing date is 5 November 2026."
+  },
+  {
+    "id": "e025",
+    "from": "noreply@hotstar.com",
+    "subject": "Your free trial ends in 3 days",
+    "date": "2026-11-16",
+    "body": "Your JioHotstar Super trial ends on 2026-11-19. After that you will be charged ₹299 per month unless you cancel your subscription."
+  },
+  {
+    "id": "e026",
+    "from": "amma.sharma@gmail.com",
+    "subject": "Diwali plans",
+    "date": "2026-11-01",
+    "body": "Are you coming home this weekend? Let me know so I can tell your aunt."
+  },
+  {
+    "id": "e027",
+    "from": "hr@company.com",
+    "subject": "Q4 offsite: vote for the venue",
+    "date": "2026-11-12",
+    "body": "Hi team, the Q4 offsite is on 2026-12-05. Please vote for one of the three venues in the form by Friday."
+  },
+  {
+    "id": "e028",
+    "from": "news@linkedin.com",
+    "subject": "Your weekly digest: 5 new jobs and trending posts",
+    "date": "2026-11-13",
+    "body": "Here is your weekly digest. Jobs you may be interested in: Senior Data Engineer at Razorpay. Trending: AI agents in fintech."
+  }
+]

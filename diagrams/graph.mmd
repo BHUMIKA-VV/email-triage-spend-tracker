@@ -1,0 +1,34 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	ingest(ingest)
+	deduplicate(deduplicate)
+	review_gate(review_gate)
+	human_review(human_review)
+	aggregate(aggregate)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> ingest;
+	deduplicate --> review_gate;
+	human_review -.-> aggregate;
+	ingest -.-> deduplicate;
+	ingest -.-> process_email\3aclassify;
+	process_email\3a__end__ --> deduplicate;
+	review_gate -.-> aggregate;
+	review_gate -.-> human_review;
+	aggregate --> __end__;
+	human_review -.-> human_review;
+	subgraph process_email
+	process_email\3aclassify(classify)
+	process_email\3aextract_transaction(extract_transaction)
+	process_email\3a__end__(<p>__end__</p>)
+	process_email\3aclassify -.-> process_email\3a__end__;
+	process_email\3aclassify -.-> process_email\3aextract_transaction;
+	process_email\3aextract_transaction --> process_email\3a__end__;
+	end
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc
